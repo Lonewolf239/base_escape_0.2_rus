@@ -1,1 +1,1 @@
-# base_escape_0.2_rus
+# Updated version of the base_escape in Russian
